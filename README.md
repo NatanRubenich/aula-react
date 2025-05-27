@@ -23,7 +23,7 @@ Para criar um novo projeto React com Vite, siga os passos abaixo:
 
 ```bash
 # Crie um novo projeto com Vite
-npm create vite@latest nome-do-projeto --
+npm create vite@latest nome-do-projeto
 
 # Acesse a pasta do projeto
 cd nome-do-projeto
